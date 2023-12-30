@@ -1,4 +1,4 @@
-# Report - Fraud Detection Algorithm - Credit Card Transaction
+# Report - Fraud Analytics: Credit Card Transaction Fraud Detection
 
 (There is no dataset provided. I only uploaded the code I used as well as the result. Please look at the attached PDF for a full report.)
 
